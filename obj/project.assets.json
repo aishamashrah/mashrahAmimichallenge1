@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/aishamashrah/.nuget/packages/": {}
+    "/Users/manuel/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aishamashrah/Desktop/homework/mashrahAmimichallenge1/mashrahAmimichallenge1.csproj",
+      "projectUniqueName": "/Users/manuel/Documents/GitRepository/mashrahAmimichallenge1/mashrahAmimichallenge1.csproj",
       "projectName": "mashrahAmimichallenge1",
-      "projectPath": "/Users/aishamashrah/Desktop/homework/mashrahAmimichallenge1/mashrahAmimichallenge1.csproj",
-      "packagesPath": "/Users/aishamashrah/.nuget/packages/",
-      "outputPath": "/Users/aishamashrah/Desktop/homework/mashrahAmimichallenge1/obj/",
+      "projectPath": "/Users/manuel/Documents/GitRepository/mashrahAmimichallenge1/mashrahAmimichallenge1.csproj",
+      "packagesPath": "/Users/manuel/.nuget/packages/",
+      "outputPath": "/Users/manuel/Documents/GitRepository/mashrahAmimichallenge1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/aishamashrah/.nuget/NuGet/NuGet.Config"
+        "/Users/manuel/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

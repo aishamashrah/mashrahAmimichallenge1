@@ -1,0 +1,15 @@
+/Users/manuel/Documents/GitRepository/mashrahAmimichallenge1/bin/Debug/net6.0/mashrahAmimichallenge1
+/Users/manuel/Documents/GitRepository/mashrahAmimichallenge1/bin/Debug/net6.0/mashrahAmimichallenge1.deps.json
+/Users/manuel/Documents/GitRepository/mashrahAmimichallenge1/bin/Debug/net6.0/mashrahAmimichallenge1.runtimeconfig.json
+/Users/manuel/Documents/GitRepository/mashrahAmimichallenge1/bin/Debug/net6.0/mashrahAmimichallenge1.dll
+/Users/manuel/Documents/GitRepository/mashrahAmimichallenge1/bin/Debug/net6.0/mashrahAmimichallenge1.pdb
+/Users/manuel/Documents/GitRepository/mashrahAmimichallenge1/obj/Debug/net6.0/mashrahAmimichallenge1.csproj.AssemblyReference.cache
+/Users/manuel/Documents/GitRepository/mashrahAmimichallenge1/obj/Debug/net6.0/mashrahAmimichallenge1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuel/Documents/GitRepository/mashrahAmimichallenge1/obj/Debug/net6.0/mashrahAmimichallenge1.AssemblyInfoInputs.cache
+/Users/manuel/Documents/GitRepository/mashrahAmimichallenge1/obj/Debug/net6.0/mashrahAmimichallenge1.AssemblyInfo.cs
+/Users/manuel/Documents/GitRepository/mashrahAmimichallenge1/obj/Debug/net6.0/mashrahAmimichallenge1.csproj.CoreCompileInputs.cache
+/Users/manuel/Documents/GitRepository/mashrahAmimichallenge1/obj/Debug/net6.0/mashrahAmimichallenge1.dll
+/Users/manuel/Documents/GitRepository/mashrahAmimichallenge1/obj/Debug/net6.0/refint/mashrahAmimichallenge1.dll
+/Users/manuel/Documents/GitRepository/mashrahAmimichallenge1/obj/Debug/net6.0/mashrahAmimichallenge1.pdb
+/Users/manuel/Documents/GitRepository/mashrahAmimichallenge1/obj/Debug/net6.0/mashrahAmimichallenge1.genruntimeconfig.cache
+/Users/manuel/Documents/GitRepository/mashrahAmimichallenge1/obj/Debug/net6.0/ref/mashrahAmimichallenge1.dll
